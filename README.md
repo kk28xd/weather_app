@@ -1,16 +1,6 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+A simple app that provides real-time weather updates for your location and cities around the world. Get accurate current temperatures and weather conditions.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| ![search](https://github.com/user-attachments/assets/fe21b614-dafa-45a4-84ad-e8840d44c0ae) | ![weather](https://github.com/user-attachments/assets/68a01f4a-cf79-4d69-aff7-036a92fd9194) |
+|:----------------------------------:|:------------------------------------:|
